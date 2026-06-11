@@ -26,7 +26,7 @@ Este projeto foi desenvolvido como uma atividade prática na **Escola da Nuvem**
 
 ## 📂 Estrutura do Repositório
 
-* `03_merged.pdf`: Documentação em PDF com o passo a passo completo do projeto.
+* `Passo-a-passo-Sistema-HelpDesk`: Documentação em PDF com o passo a passo completo do projeto.
 * `Fluxo_teste_activepieces.png`: Print do fluxo de automação estruturado no Activepieces.
 * `README.md`: Documentação principal do projeto.
 
